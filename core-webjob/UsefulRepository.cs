@@ -9,7 +9,7 @@
     {
         public string GetFoo()
         {
-            return "Foo";
+            return "Foo 2.0.0";
         }
     }
 }
